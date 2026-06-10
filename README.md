@@ -9,6 +9,16 @@
 
 ---
 
+## Screenshots
+
+![Hero](petrolife-hero.png)
+
+![Services](petrolife-services.png)
+
+![App](petrolife-app.png)
+
+---
+
 ## Overview
 
 Petrolife is a high-converting marketing landing page built for an energy sector brand. The goal was a fast, visually sharp page that clearly communicates the brand's value proposition and drives conversions.
@@ -28,10 +38,6 @@ Petrolife is a high-converting marketing landing page built for an energy sector
 - Clear conversion funnel with CTA placement
 - Fast static delivery via Next.js SSG
 
-## Results
-
-Built to spec with a focus on performance and brand alignment. Clean, professional look tailored to the energy industry.
-
 ## Contact
 
-Want a landing page for your brand? [fahdgamad080@gmail.com](mailto:fahdgamad080@gmail.com)
+[fahdgamad080@gmail.com](mailto:fahdgamad080@gmail.com)
